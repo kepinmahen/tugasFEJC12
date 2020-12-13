@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "nama": "bambang",
+      "usia": "13",
+      "pekerjaan": "coder",
+      "id": 1
+    },
+    {
+      "nama": "Kevin mahendra",
+      "usia": "18",
+      "pekerjaan": "siswa",
+      "id": 2
+    },
+    {
+      "nama": "derik",
+      "usia": "12",
+      "pekerjaan": "koki",
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "category": "All"
+    },
+    {
+      "id": 1,
+      "category": "coder,"
+    }
+  ]
+}
